@@ -1,4 +1,5 @@
 Some change
+Some other
 
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
