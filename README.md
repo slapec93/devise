@@ -1,5 +1,5 @@
 Some readme modification
-More mod
+More modification
 
 ![Devise Logo](https://raw.github.com/plataformatec/devise/master/devise.png)
 
